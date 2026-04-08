@@ -1,2 +1,6 @@
+streamlit
+pandas
 nltk
-sklearn
+scikit-learn
+numpy
+plotly
