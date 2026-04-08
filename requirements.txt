@@ -1,7 +1,2 @@
-streamlit
-joblib
-scikit-learn
 nltk
-pandas
-string
 sklearn
